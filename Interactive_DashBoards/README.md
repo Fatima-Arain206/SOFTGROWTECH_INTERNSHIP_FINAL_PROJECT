@@ -23,10 +23,9 @@ Dataset sourced from [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-
 5. Added filters/interactivity to make the dashboard user-friendly
 
 ## 📊 Key Insights
-- *(Add 2–3 insights after completing analysis)*
 
 ## 📈 Dashboard Preview
-*(Add a screenshot of your final dashboard here)*
+https://public.tableau.com/views/dashborad_17867970558120/HREMPLOYEATTRITIONDASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## ✅ Outcome
 This project helped strengthen skills in dashboard design and interactive data visualization — turning raw data into a tool that non-technical users can explore and understand easily.
