@@ -25,10 +25,8 @@ Dataset sourced from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstor
 5. Created visualizations (bar, line charts) to present findings clearly
 
 ## 📊 Key Insights
-- *(Add 2–3 insights after completing analysis)*
 
 ## 📈 Sample Visualizations
-*(Add screenshots of your charts here once generated)*
 
 ## ✅ Outcome
 This project helped strengthen skills in end-to-end business data analysis — from cleaning raw data to presenting clear, structured, and actionable insights.
